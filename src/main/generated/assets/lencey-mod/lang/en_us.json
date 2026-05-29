@@ -1,0 +1,7 @@
+{
+  "block.lencey-mod.lencey_block": "Lencey Block",
+  "item.lencey-mod.lencey": "Lencey",
+  "itemGroup.lencey": "Lencey Tab",
+  "tooltip.lencey.lencey_tooltip": "Hold §6§n§l§oSHIFT§r§r§r§r for more info!",
+  "tooltip.lencey.lencey_tooltip.shift": "This is an item that can be used to increase Exp."
+}

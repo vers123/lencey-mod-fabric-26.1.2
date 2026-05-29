@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lencey": {
+      "conditions": {
+        "items": [
+          {
+            "items": "lencey-mod:lencey"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "lencey-mod:lencey_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lencey"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "lencey-mod:lencey_block"
+    ]
+  }
+}

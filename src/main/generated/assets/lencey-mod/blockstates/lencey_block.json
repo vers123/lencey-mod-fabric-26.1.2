@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lencey-mod:block/lencey_block"
+    }
+  }
+}

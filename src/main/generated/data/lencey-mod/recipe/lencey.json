@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "lencey-mod:lencey_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "lencey-mod:lencey"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "lencey",
+  "ingredient": "lencey-mod:lencey_block",
+  "result": {
+    "id": "lencey-mod:lencey"
+  }
+}
